@@ -7,7 +7,7 @@ subtitle: <a href='#'>Fondazione Bruno Kessler</a>. Trento, Italy. acamilletti@f
 profile:
   align: right
   image: me_circle.png
-  image_circular: false # crops the image to make it circular
+  image_circular: true # crops the image to make it circular
   more_info: >
     <p>acamilletti@fbk.eu</p>
     <p>Trento, Italy</p>
