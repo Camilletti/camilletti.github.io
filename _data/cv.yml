@@ -2,115 +2,116 @@
   type: map
   contents:
     - name: Full Name
-      value: Alessandro Camilletti
+      value: "Alessandro Camilletti"
     - name: Date of Birth
-      value: 26th August 1992
+      value: "26th August 1992"
     - name: Languages
-      value: English, Italian
+      value: "English, Italian"
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Trento, Trento, Italy
+    - title: "PhD"
+      institution: "University of Trento, Trento, Italy"
       year: 2024
       description:
-        - Neutron Stars
-        - Numerical Relativity
-        - Multimessenger Astrophysics
-        - <b>Supervisor:</b> Albino Perego
-    - title: Master in Physics
-      institution: University of Rome "La Sapienza", Rome, Italy
+        - "Neutron Stars"
+        - "Numerical Relativity"
+        - "Multimessenger Astrophysics"
+        - "<b>Supervisor:</b> Albino Perego"
+    - title: "Master in Physics"
+      institution: "University of Rome 'La Sapienza', Rome, Italy"
       year: 2019
       description:
-        - Theoretical Physics
-        - Quantum Gravity
-        - <b>Supervisors:</b> Daniele Pranzetti, Giovanni Montani
+        - "Theoretical Physics"
+        - "Quantum Gravity"
+        - "<b>Supervisors:</b> Daniele Pranzetti, Giovanni Montani"
 
 - title: Research Experience
   type: time_table
   contents:
-    - title: Researcher (R3)
-      institution: Fondazione Bruno Kessler, Trento, Italy
-      year: 2024 - now
+    - title: "Researcher (R3)"
+      institution: "Fondazione Bruno Kessler, Trento, Italy"
+      year: "2024–now"
       description:
-        - AI / Machine Learning
-        - Subseasonal to Seasonal Forecasting
-    - title: Visiting Student
-      institution: Perimeter Institute, Waterloo, Canada
+        - "AI / Machine Learning"
+        - "Subseasonal to Seasonal Forecasting"
+    - title: "Visiting Student"
+      institution: "Perimeter Institute, Waterloo, Canada"
       year: 2019
 
 - title: Conferences
   type: time_table
   contents:
-    - title: EGU General Assembly
-      institution: Austria Center, Vienna, Austria
+    - title: "EGU General Assembly"
+      institution: "Austria Center, Vienna, Austria"
       year: 2025
-    - title: New Frontiers in Theoretical Physics - XXXVIII Convegno Nazionale di Fisica Teorica
-      institution: Scuola Normale Superiore di Pisa, Cortona
+    - title: "New Frontiers in Theoretical Physics - XXXVIII Convegno Nazionale di Fisica Teorica"
+      institution: "Scuola Normale Superiore di Pisa, Cortona"
       year: 2024
-    - title: TEONGRAV INFN meeting
-      institution: University of Naples, Naples, Italy
+    - title: "TEONGRAV INFN meeting"
+      institution: "University of Naples, Naples, Italy"
       year: 2023
-    - title: Gravity Shape Pisa 2023
-      institution: University of Pisa, Pisa, Italy
+    - title: "Gravity Shape Pisa 2023"
+      institution: "University of Pisa, Pisa, Italy"
       year: 2023
-    - title: Microphysics in Computational Relativistic Astrophysics (MICRA)
-      institution: University of Trento, Trento, Italy
+    - title: "Microphysics in Computational Relativistic Astrophysics (MICRA)"
+      institution: "University of Trento, Trento, Italy"
       year: 2023
-    - title: WE-Heraus Seminar
-      institution: Physikzentrum Bad Honnef, Bad Honnef, Germany
+    - title: "WE-Heraus Seminar"
+      institution: "Physikzentrum Bad Honnef, Bad Honnef, Germany"
       year: 2022
-    - title: Frontiers in Numerical Relativity
-      institution: University of Jena, Jena, Germany
+    - title: "Frontiers in Numerical Relativity"
+      institution: "University of Jena, Jena, Germany"
       year: 2022
-    - title: ECT* Workshop "Neutron stars as multi-messenger laboratories for dense matter"
-      institution: European Center for Theoretical Studies in Nuclear Physics and Related Areas, Trento, Italy
+    - title: "ECT* Workshop 'Neutron stars as multi-messenger laboratories for dense matter'"
+      institution: "European Center for Theoretical Studies in Nuclear Physics and Related Areas, Trento, Italy"
       year: 2022
-    - title: Loops'19 Conference
-      institution: Penn State University, Pennsylvania, USA
+    - title: "Loops'19 Conference"
+      institution: "Penn State University, Pennsylvania, USA"
       year: 2019
-      
+
 - title: Honors and Awards
   type: time_table
   contents:
-    - title: Best Poster Prize winner at WE-Heraus Seminar 
+    - title: "Best Poster Prize winner at WE-Heraus Seminar"
       year: 2022
 
 - title: Schools
   type: time_table
   contents:
-    - title: AIWCAST24: Artificial Intelligence for Weather and Climate Autumn School
-      institution: European Center for Theoretical Studies in Nuclear Physics and Related Areas, Trento, Italy
+    - title: "AIWCAST24: Artificial Intelligence for Weather and Climate Autumn School"
+      institution: "European Center for Theoretical Studies in Nuclear Physics and Related Areas, Trento, Italy"
       year: 2024
       description:
-        - Assistant during the lectures and hands-on sessions
-    - title: Joliot-Curie School "Nuclear Matter under Pressure"
-      institution: Oléron, France
+        - "Assistant during the lectures and hands-on sessions"
+    - title: "Joliot-Curie School 'Nuclear Matter under Pressure'"
+      institution: "Oléron, France"
       year: 2022
-    - title: Bard Summer School on Quantum Gravity
-      institution: Bard College, Bard, New York, USA
+    - title: "Bard Summer School on Quantum Gravity"
+      institution: "Bard College, Bard, New York, USA"
       year: 2019
 
 - title: Work Experience
   type: time_table
   contents:
-    - title: Assistant Lecturer
-      institution: Università della Tuscia, Viterbo, Italy
+    - title: "Assistant Lecturer"
+      institution: "Università della Tuscia, Viterbo, Italy"
       year: 2019
       description:
-        - Python for scientific programming
-    - title: Software Developer & Founder
-      institution: ByTek Marketing
+        - "Python for scientific programming"
+    - title: "Software Developer & Founder"
+      institution: "ByTek Marketing"
       year: "2015–2019"
-    - title: Collaboration Grants
-      institution: University of Rome "La Sapienza", Rome, Italy
-      year: 2017, 2019
-    - title: Software Developer
-      institution: CloudWorks
-      year: "2015–2019"
+    - title: "Collaboration Grants"
+      institution: "University of Rome 'La Sapienza', Rome, Italy"
+      year: "2017, 2019"
+    - title: "Software Developer"
+      institution: "CloudWorks"
+      year: "2013–2015"
 
 - title: Other Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Climbing, Alpinism, Chess
+    - "<u>Hobbies:</u> Climbing, Alpinism, Chess"
+
