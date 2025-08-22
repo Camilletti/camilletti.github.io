@@ -40,7 +40,7 @@
       institution: Perimeter Institute, Waterloo, Canada
       year: 2019
 
-- title: Conderences
+- title: Conferences
   type: time_table
   contents:
     - title: EGU General Assembly
@@ -55,7 +55,7 @@
     - title: Gravity Shape Pisa 2023
       institution: University of Pisa, Pisa, Italy
       year: 2023
-    - title: Microphyisis in Computational Relativistic Astrophysics (MICRA)
+    - title: Microphysics in Computational Relativistic Astrophysics (MICRA)
       institution: University of Trento, Trento, Italy
       year: 2023
     - title: WE-Heraus Seminar
@@ -65,7 +65,7 @@
       institution: University of Jena, Jena, Germany
       year: 2022
     - title: ECT* Workshop "Neutron stars as multi-messenger laboratories for dense matter"
-      institution: European Center for Theoretical Studies in Nuclear Physics and Related Area, Trento, Italy
+      institution: European Center for Theoretical Studies in Nuclear Physics and Related Areas, Trento, Italy
       year: 2022
     - title: Loops'19 Conference
       institution: Penn State University, Pennsylvania, USA
@@ -74,24 +74,23 @@
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 2022
-      items:
-        - Best Poster Prize winner at WE-Heraus Seminar
+    - title: Best Poster Prize winner at WE-Heraus Seminar 
+      year: 2022
 
 - title: Schools
   type: time_table
   contents:
     - title: AIWCAST24: Artificial Intelligence for Weather and Climate Autumn School
-      institution: European Center for Theoretical Studies in Nuclear Physics and Related Area, Trento, Italy
+      institution: European Center for Theoretical Studies in Nuclear Physics and Related Areas, Trento, Italy
       year: 2024
       description:
-        - Assistant during the lectures and hands-on sessions      
+        - Assistant during the lectures and hands-on sessions
     - title: Joliot-Curie School "Nuclear Matter under Pressure"
       institution: Oléron, France
       year: 2022
     - title: Bard Summer School on Quantum Gravity
       institution: Bard College, Bard, New York, USA
-      year: 2019  
+      year: 2019
 
 - title: Work Experience
   type: time_table
@@ -99,17 +98,17 @@
     - title: Assistant Lecturer
       institution: Università della Tuscia, Viterbo, Italy
       year: 2019
-      items:
+      description:
         - Python for scientific programming
     - title: Software Developer & Founder
       institution: ByTek Marketing
-      year: 2015 - 2019
+      year: "2015–2019"
     - title: Collaboration Grants
       institution: University of Rome "La Sapienza", Rome, Italy
       year: 2017, 2019
     - title: Software Developer
       institution: CloudWorks
-      year: 2013 - 2015
+      year: "2015–2019"
 
 - title: Other Interests
   type: list
