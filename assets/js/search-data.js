@@ -35,8 +35,17 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather.html";
-            },},{id: "news-i-have-started-a-new-postdoctoral-research-position-at-sissa-the-international-school-for-advanced-studies-in-trieste-i-will-work-in-enrico-barausse-s-group-focusing-on-constraining-scalar-tensor-theories-of-gravity-and-environmental-effects-using-neutron-stars-as-probes",
+            },},{id: "news-i-presented-the-it-dpc-sri-radar-precipitation-dataset-and-the-irene-nowcasting-model-at-the-online-webinar-open-weather-radar-data-and-ai-nowcasting-for-italy-organised-by-it4lia-ai-factory-with-eurocc-italy-and-fondazione-bruno-kessler",
+          title: 'I presented the IT-DPC-SRI radar precipitation dataset and the IRENE nowcasting model at...',
+          description: "",
+          section: "News",},{id: "news-i-taught-the-two-day-online-course-forecasting-precipitation-with-ai-and-radar-data-22-23-september-offered-by-cineca-within-the-it4lia-project-the-course-covered-radar-data-management-with-cloud-native-tools-and-precipitation-nowcasting-with-the-irene-model",
+          title: 'I taught the two-day online course Forecasting Precipitation with AI and Radar Data...',
+          description: "",
+          section: "News",},{id: "news-i-have-started-a-new-postdoctoral-research-position-at-sissa-the-international-school-for-advanced-studies-in-trieste-i-will-work-in-enrico-barausse-s-group-focusing-on-constraining-scalar-tensor-theories-of-gravity-and-environmental-effects-using-neutron-stars-as-probes",
           title: 'I have started a new postdoctoral research position at SISSA, the International School...',
+          description: "",
+          section: "News",},{id: "news-i-gave-the-hands-on-lecture-developing-an-end-to-end-ml-pipeline-at-aiwcas-2026-the-third-edition-of-the-artificial-intelligence-for-weather-and-climate-autumn-school-held-at-fondazione-bruno-kessler-in-trento-26-29-october-i-was-also-a-member-of-the-scientific-committee",
+          title: 'I gave the hands-on lecture “Developing an end-to-end ML pipeline” at AIWCAS 2026,...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
