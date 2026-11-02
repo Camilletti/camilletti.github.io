@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>SISSA - international school for advanced studies</a>. Trieste, Italy. acamille@sissa.it.
+subtitle: <a href='#'>SISSA - International School for Advanced Studies</a>. Trieste, Italy. acamille@sissa.it.
 
 profile:
   align: right
@@ -21,11 +21,11 @@ announcements:
   limit: 5 # leave blank to include all the news in the `_news` folder
 ---
 
-I am a researcher at SISSA, international school for advanced studies, working on numerical relativity simulations of scalar-tensor theories of gravity, environmental effects and AI-methods for weather forecasting.
+I am a researcher at SISSA, the International School for Advanced Studies, working on numerical relativity simulations of scalar-tensor theories of gravity, environmental effects and AI methods for weather forecasting.
 
-In my recent research in Fondazione Bruno Kessler I developed machine learning models for nowcasting and seasonal forecasting.
+In my recent research at Fondazione Bruno Kessler, I developed machine learning models for nowcasting and seasonal forecasting.
 
 During my PhD in Physics, I focused on the setup and analysis of numerical relativity simulations of binary neutron star mergers under the supervision of Albino Perego.
 
-I have been part of the CoRe collaboration, a collaborative research effort among scientists from the University of Jena
-(Germany), the Federal University of ABC (Brazil), The Pennsylvania State University (USA), Florida Atlantic University (USA), the University of Trento, and INFN (Italy).
+I have been part of the CoRe collaboration, a research effort among scientists from the University of Jena
+(Germany), the Federal University of ABC (Brazil), the Pennsylvania State University (USA), Florida Atlantic University (USA), the University of Trento, and INFN (Italy).
