@@ -43,6 +43,9 @@
 - title: Conferences
   type: time_table
   contents:
+    - title: "SISC 2025 Conference on Climate Science"
+      institution: "Salerno, Italy"
+      year: 2025
     - title: "EGU General Assembly"
       institution: "Austria Center, Vienna, Austria"
       year: 2025
@@ -71,6 +74,28 @@
       institution: "Penn State University, Pennsylvania, USA"
       year: 2019
 
+- title: Webinars and Online Seminars
+  type: time_table
+  contents:
+    - title: "Forecasting Precipitation with AI and Radar Data: National Radar Composite and Nowcasting Models Released in IT4LIA"
+      institution: "CINECA and IT4LIA AI Factory, online"
+      year: 2026
+      description:
+        - "Instructor of the two-day online course (22–23 September 2026)"
+        - "Module 1: radar datasets and big data management (IT-DPC-SRI)"
+        - "Module 2: nowcasting modelling with IRENE"
+      linkitems:
+        - link: "https://eventi.cineca.it/en/node/4083"
+          linkname: "event page"
+    - title: "Open Weather Radar Data and AI Nowcasting for Italy"
+      institution: "IT4LIA AI Factory, EuroCC Italy and Fondazione Bruno Kessler, online"
+      year: 2026
+      description:
+        - "Speaker (8 September 2026): presentation of the IT-DPC-SRI dataset and the IRENE model"
+      linkitems:
+        - link: "https://www.fbk.eu/en/event/37383/open-weather-radar-data-and-ai-nowcasting-for-italy"
+          linkname: "event page"
+
 - title: Honors and Awards
   type: time_table
   contents:
@@ -80,7 +105,24 @@
 - title: Schools
   type: time_table
   contents:
-    - title: "AIWCAST24: Artificial Intelligence for Weather and Climate Autumn School"
+    - title: "AIWCAS26: Artificial Intelligence for Weather and Climate Autumn School"
+      institution: "Fondazione Bruno Kessler, ECT* - Villa Tambosi, Trento, Italy"
+      year: 2026
+      description:
+        - "Lecturer: hands-on session 'Developing an end-to-end ML pipeline' (27 October 2026)"
+        - "Member of the Scientific Committee"
+      linkitems:
+        - link: "https://dsip.fbk.eu/events/aiwcas2026/"
+          linkname: "school page"
+    - title: "AIWCAS25: Artificial Intelligence for Weather and Climate Autumn School"
+      institution: "Fondazione Bruno Kessler, ECT* - Villa Tambosi, Trento, Italy"
+      year: 2025
+      description:
+        - "Lecturer: hands-on session 'Developing an end-to-end ML pipeline' (29 October 2025)"
+      linkitems:
+        - link: "https://dsip.fbk.eu/events/aiwcas2025/"
+          linkname: "school page"
+    - title: "AIWCAS24: Artificial Intelligence for Weather and Climate Autumn School"
       institution: "European Center for Theoretical Studies in Nuclear Physics and Related Areas, Trento, Italy"
       year: 2024
       description:
