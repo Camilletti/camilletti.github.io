@@ -35,15 +35,7 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather.html";
-            },},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2.html";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
-          description: "",
-          section: "News",},{id: "news-i-have-started-a-new-postdoctoral-research-position-at-sissa-the-international-school-for-advanced-studies-in-trieste-i-will-work-in-enrico-barausse-s-group-focusing-on-constraining-scalar-tensor-theories-of-gravity-and-environmental-effects-using-neutron-stars-as-probes",
+            },},{id: "news-i-have-started-a-new-postdoctoral-research-position-at-sissa-the-international-school-for-advanced-studies-in-trieste-i-will-work-in-enrico-barausse-s-group-focusing-on-constraining-scalar-tensor-theories-of-gravity-and-environmental-effects-using-neutron-stars-as-probes",
           title: 'I have started a new postdoctoral research position at SISSA, the International School...',
           description: "",
           section: "News",},{id: "projects-project-1",
